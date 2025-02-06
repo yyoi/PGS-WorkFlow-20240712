@@ -2,6 +2,8 @@
 
 Example pipeline for PGS standardization.
 
+__For details,__
+* Sutoh Y, Hachiya T, Otsuka-Yamasaki Y, Tokutomi T, Yoshida A, Kotozaki Y, Komaki S, Minabe S, Ohmomo H, Tanno K, Fukushima A, Sasaki M, Shimizu A. Reference-Based Standardization Approach Stabilizing Small Batch Risk Prediction via Polygenic Score. Genet Epidemiol. 2025 Mar;49(2):e70002. doi: 10.1002/gepi.70002. PMID: 39888077.
 
 ## QC 1: Use reference and native variants
 
